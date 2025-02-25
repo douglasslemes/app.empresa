@@ -31,4 +31,4 @@ def obter_novos_dados_funcionario():
     novo_cargo = input("Novo cargo: ")
     novo_salario = float(input("Novo salário: "))
     novo_departamento = input("Novo departamento: ")
-    return novo_cargo, novo_salario, novo_departamento
+    return novo_cargo, novo_salario, ..
